@@ -10,7 +10,7 @@
 .firstclass{
     height: 100vh; /* para sa full width */
     width: 100%; 
-    background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url(/Second-Image/ios.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url(./Second-Image/ios.jpg);
     background-size: 100%; /* laki ng size ng bg na ginamit */
     background-position: center;
 }
@@ -151,7 +151,7 @@ button:hover{
 /********************About Section*********************/
 
 .welcome{
-    background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url(/Second-Image/new-bg2.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url(./Second-Image/new-bg2.jpg);
     height: 100vh;
     width: 100%px;
     display: flex;
@@ -228,7 +228,7 @@ button:hover{
 
 /***********Other Features*************/
 .features{
-    background:linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url(/Second-Image/Black-technology.jpg);
+    background:linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url(./Second-Image/Black-technology.jpg);
     height: 690px;
     width: 100%px;
     background-size: cover;
@@ -317,7 +317,7 @@ button:hover{
 .contact-me{
     width: 100%;
     height: 290px;
-    background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url(/Second-Image/new-bg3.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url(./Second-Image/new-bg3.jpg);
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -418,7 +418,7 @@ footer p:nth-child(2){
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url(/Second-Image/new-bg3.jpg);
+    background: url(./Second-Image/new-bg3.jpg);
     background-size: 100%;
 }
 
